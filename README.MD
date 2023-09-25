@@ -6,7 +6,7 @@ Requirements other than listed in requirements.txt
 2. Appium Server GUI https://github.com/appium/appium-desktop
 3. Android Studio for creating emulator
 4. Android Demo APK (check the project)
-5. Java SDK https://www.oracle.com/java/technologies/downloads/
+5. JDK https://www.oracle.com/java/technologies/downloads/
 
 (B) 
 setting up path and environments
